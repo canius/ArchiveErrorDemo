@@ -12,7 +12,7 @@ Xcode Version 12.2 beta 4 (12B5044c)
 ## Structure
 
 <pre>
--- ArchiveErrorDemo (iOS App Target)
+ArchiveErrorDemo (iOS App Target)
     -- Dependency (Framework)
         -- TestBinary (xcframework)
 </pre>
