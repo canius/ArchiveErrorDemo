@@ -13,6 +13,6 @@ Xcode Version 12.2 beta 4 (12B5044c)
 
 <pre>
 ArchiveErrorDemo (iOS App Target)
-    -- Dependency (Framework)
+    -- Dependency (SPM Framework)
         -- TestBinary (xcframework)
 </pre>
