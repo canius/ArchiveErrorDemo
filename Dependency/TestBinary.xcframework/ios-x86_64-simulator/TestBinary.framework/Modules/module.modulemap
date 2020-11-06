@@ -1,0 +1,11 @@
+framework module TestBinary {
+  umbrella header "TestBinary.h"
+
+  export *
+  module * { export * }
+}
+
+module TestBinary.Swift {
+    header "TestBinary-Swift.h"
+    requires objc
+}
