@@ -9,5 +9,5 @@ import Foundation
 import TestBinary
 
 public func hello() {
-    TestBinary.hello()
+    print(TestBinary.TestBinaryVersionNumber)
 }
